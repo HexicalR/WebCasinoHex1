@@ -1,5 +1,7 @@
 # WebCasinoHex
-This is an application that manage the players from the WebCasinoHex, the web application is created in ASP.NET WebForms using a sql server connection to see, add, update and delete the players. To use the application is fundamental to execute the below scripts on SQL Server to create the connection and to handle the project with the DB:  
+This is an application that manage the players from the WebCasinoHex, the web application is created in ASP.NET WebForms using a sql server connection to see, add, update and delete the players. 
+
+To use the application is fundamental to execute the below scripts on SSMS to create the connection and to handle the project with the DB:  
 
 
 create database WebCasinoHex;
