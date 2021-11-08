@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUSINESS", "BUSINESS\BUSINESS.csproj", "{358913C7-761B-4915-A92F-2A0A222B57D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATA", "DATA\DATA.csproj", "{E9072F0E-793D-4BE2-A97B-F94680ACBBCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCasino", "WebCasino\WebCasino.csproj", "{31A85FA2-1049-4703-BF05-FD26A3F2EDD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{358913C7-761B-4915-A92F-2A0A222B57D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358913C7-761B-4915-A92F-2A0A222B57D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358913C7-761B-4915-A92F-2A0A222B57D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358913C7-761B-4915-A92F-2A0A222B57D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9072F0E-793D-4BE2-A97B-F94680ACBBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9072F0E-793D-4BE2-A97B-F94680ACBBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9072F0E-793D-4BE2-A97B-F94680ACBBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9072F0E-793D-4BE2-A97B-F94680ACBBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A85FA2-1049-4703-BF05-FD26A3F2EDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A85FA2-1049-4703-BF05-FD26A3F2EDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A85FA2-1049-4703-BF05-FD26A3F2EDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A85FA2-1049-4703-BF05-FD26A3F2EDD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F3960D7-770C-4EA5-993D-615DA4E52A03}
+	EndGlobalSection
+EndGlobal
